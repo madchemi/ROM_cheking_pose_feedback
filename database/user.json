@@ -1,0 +1,31 @@
+{
+    "user_id": "user123",
+    "password": "pass123",
+    "rom_data": {
+        "hip_flexion": {
+            "init_angle": 145.91974387220307,
+            "extreme_angle": 87.15050415354614,
+            "rom": 58.769239718656934
+        },
+        "knee_flexion": {
+            "init_angle": 107.47768060769187,
+            "extreme_angle": 174.2556280813667,
+            "rom": 66.77794747367483
+        },
+        "ankle_dorsiflexion": {
+            "init_angle": 169.7308046559531,
+            "extreme_angle": 127.36805780339508,
+            "rom": 42.36274685255803
+        },
+        "hip_abduction": {
+            "init_angle": 145.91974387220307,
+            "extreme_angle": 87.15050415354614,
+            "rom": 58.769239718656934
+        },
+        "hip_external_rotation": {
+            "init_angle": 128.98676183342056,
+            "extreme_angle": 66.80894215383681,
+            "rom": 62.17781967958375
+        }
+    }
+}
